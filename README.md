@@ -1,4 +1,4 @@
-[![Screenshot of the Website](https://github.com/JPNLwebinar/screenshot.png)](https://jpnlwebinar.github.io/)
+[![Screenshot of the Website](https://github.com/JPNLwebinar/master/screenshot.png)](https://jpnlwebinar.github.io/)
 
 ---
 
