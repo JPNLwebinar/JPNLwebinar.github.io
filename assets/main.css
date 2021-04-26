@@ -113,7 +113,7 @@ img.center{display:block; width:67%; margin:1em auto 2em auto;}
 
 /* Flyer Images */
 table.flyers{width:800px;}
-td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
+td.flyer{white-space:nowrap; width:33.3%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 td.sponsor img{width: 100%}
 
 /* The Footer */
